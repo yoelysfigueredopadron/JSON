@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "titulo": "Agua con gas Pellegrino",
+        "titulo": "Agua Pellegrino",
         "precioReal": 800,
         "precioRebajado": 720,
         "img": "agua-pellegrino.jpg",
@@ -17,10 +17,10 @@
     },
     {
         "id": 3,
-        "titulo": "Andes Origen",
-        "precioReal": 400,
-        "precioRebajado": 360,
-        "img": "andes-origen.jpg",
+        "titulo": "Toto Birra",
+        "precioReal": 600,
+        "precioRebajado": 540,
+        "img": "toto-birra.jpg",
         "dataId": "B3"
     },
     {
@@ -238,5 +238,13 @@
         "precioRebajado": 895,
         "img": "vodka.jpg",
         "dataId": "B30"
+    },
+    {
+        "id": 31,
+        "titulo": "Andes Origen",
+        "precioReal": 400,
+        "precioRebajado": 360,
+        "img": "andes-origen.jpg",
+        "dataId": "B31"
     }
 ]
