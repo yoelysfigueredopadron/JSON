@@ -1,0 +1,403 @@
+[
+	{
+		"id": 1,
+		"name": "Agua Pellegrino",
+		"price": 800,
+		"category": "sin-alcohol",
+		"img": "agua-pellegrino.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 2,
+		"name": "Agua sin gas Bonaqua",
+		"price": 500,
+		"category": "sin-alcohol",
+		"img": "agua-bonagua.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 3,
+		"name": "Toto Birra",
+		"price": 600,
+		"category": "alcoholicas",
+		"img": "toto-birra.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 4,
+		"name": "Aquarius Pera",
+		"price": 130,
+		"category": "sin-alcohol",
+		"img": "aquarius-pera.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 5,
+		"name": "Aquarius Pomelo",
+		"price": 190,
+		"category": "sin-alcohol",
+		"img": "aquarius-pomelo.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 6,
+		"name": "Brahma",
+		"price": 490,
+		"category": "alcoholicas",
+		"img": "brahma.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 7,
+		"name": "Chandon 187",
+		"price": 500,
+		"category": "alcoholicas",
+		"img": "chandon-187.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 8,
+		"name": "Cerveza Budweiser",
+		"price": 400,
+		"category": "alcoholicas",
+		"img": "budweiser-lata.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 9,
+		"name": "Pura Frutta Manzana",
+		"price": 180,
+		"category": "sin-alcohol",
+		"img": "pura-frutta-manzana.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 10,
+		"name": "Citric Naranja",
+		"price": 180,
+		"category": "sin-alcohol",
+		"img": "citric-naranja.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 11,
+		"name": "Coca Cola",
+		"price": 550,
+		"category": "sin-alcohol",
+		"img": "coca-lata.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 12,
+		"name": "Coca Cola Light",
+		"price": 450,
+		"category": "sin-alcohol",
+		"img": "coca-cola-light.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 13,
+		"name": "Coca Cola Zero",
+		"price": 500,
+		"category": "sin-alcohol",
+		"img": "coca-cola-zero.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 14,
+		"name": "Corona Porrón",
+		"price": 700,
+		"category": "alcoholicas",
+		"img": "corona.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 15,
+		"name": "Dante Robino",
+		"price": 900,
+		"category": "alcoholicas",
+		"img": "dante-robino-cabernet.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 16,
+		"name": "Fanta Naranja",
+		"price": 450,
+		"category": "sin-alcohol",
+		"img": "fanta-lata.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 17,
+		"name": "Cerveza Imperial",
+		"price": 650,
+		"category": "alcoholicas",
+		"img": "imperial.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 18,
+		"name": "Jugo Las Brisas",
+		"price": 800,
+		"category": "sin-alcohol",
+		"img": "jugo-organico-las-brisas.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 19,
+		"name": "Novecento Brut",
+		"price": 600,
+		"category": "alcoholicas",
+		"img": "novecento-brut.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 20,
+		"name": "Novecento Dulce",
+		"price": 600,
+		"category": "alcoholicas",
+		"img": "novecento-champagne.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 21,
+		"name": "Novecento Malbec",
+		"price": 750,
+		"category": "alcoholicas",
+		"img": "novecento-malbec.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 22,
+		"name": "Cerveza Patagonia",
+		"price": 750,
+		"category": "alcoholicas",
+		"img": "patagonia.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 23,
+		"name": "Cerveza Quilmes",
+		"price": 400,
+		"category": "alcoholicas",
+		"img": "quilmes.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 24,
+		"name": "Red Bull",
+		"price": 800,
+		"category": "sin-alcohol",
+		"img": "red-bull-lata.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 25,
+		"name": "Speed",
+		"price": 780,
+		"category": "sin-alcohol",
+		"img": "speed-lata.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 26,
+		"name": "Sprite",
+		"price": 450,
+		"category": "sin-alcohol",
+		"img": "sprite-lata.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 27,
+		"name": "Sprite Zero",
+		"price": 450,
+		"category": "sin-alcohol",
+		"img": "sprite-zero.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 28,
+		"name": "Stella Artois Negra",
+		"price": 850,
+		"category": "alcoholicas",
+		"img": "stella-negra.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 29,
+		"name": "Cerveza Stella Artois",
+		"price": 750,
+		"category": "alcoholicas",
+		"img": "stella.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 30,
+		"name": "Smirnoff Vodka",
+		"price": 1050,
+		"category": "alcoholicas",
+		"img": "vodka.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 31,
+		"name": "Andes Origen",
+		"price": 400,
+		"category": "alcoholicas",
+		"img": "andes-origen.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 32,
+		"name": "Cheetos",
+		"price": 120,
+		"category": "",
+		"img": "cheetos.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 33,
+		"name": "Doritos",
+		"price": 150,
+		"category": "",
+		"img": "doritos.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 34,
+		"name": "El Noble Verdura",
+		"price": 650,
+		"category": "",
+		"img": "empanadas-de-espinaca.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 35,
+		"name": "El Noble JQ",
+		"price": 800,
+		"category": "",
+		"img": "empanadas-de-jq.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 36,
+		"name": "El Noble Humita",
+		"price": 650,
+		"category": "",
+		"img": "empanadas-humita.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 37,
+		"name": "El Noble Barbecue",
+		"price": 900,
+		"category": "",
+		"img": "empanadas-pollo-barbecue.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 38,
+		"name": "El Noble Pollo",
+		"price": 800,
+		"category": "",
+		"img": "empanadas-pollo.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 39,
+		"name": "Hamburguesas Paty",
+		"price": 550,
+		"category": "",
+		"img": "hamburguesas-paty.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 40,
+		"name": "Lays",
+		"price": 120,
+		"category": "",
+		"img": "lays.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 41,
+		"name": "Maní Japonés",
+		"price": 180,
+		"category": "",
+		"img": "mani-japones.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 42,
+		"name": "Maní Pehuamar",
+		"price": 150,
+		"category": "",
+		"img": "mani-pehuamar.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	},
+	{
+		"id": 43,
+		"name": "Patitas de Pollo",
+		"price": 380,
+		"precioRebajado": 342,
+		"img": "patitas-de-pollo.jpg"
+	},
+	{
+		"id": 44,
+		"name": "Pizza Sibarita",
+		"price": 490,
+		"precioRebajado": 441,
+		"img": "pizza-sibarita.jpg"
+	},
+	{
+		"id": 45,
+		"name": "Pringles Originales",
+		"price": 290,
+		"category": "",
+		"img": "pringles.jpg",
+		"stock": 10,
+		"description": "Se agregará una descripción referente al producto."
+	}
+]
